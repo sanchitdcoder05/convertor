@@ -23,12 +23,12 @@ State Management: Reactive and dynamic UI behavior
 Navigation: Android Navigation Component for seamless page transitions
 
 🚀 How to Run the Project
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/your-username/unit-converter.git
-Open the project in Android Studio (latest version recommended).
-Build and run the app on an Android emulator or physical device running Android 14 or above.
+1. Clone this repository:
+    1. open git bash
+    2. Copy code
+    3. git clone : https://github.com/your-username/unit-converter.git
+2. Open the project in Android Studio (latest version recommended).
+3. Build and run the app on an Android emulator or physical device running Android 14 or above.
 
 📂 Project Structure :
 /src/main
